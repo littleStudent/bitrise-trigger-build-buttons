@@ -1,0 +1,23 @@
+{
+  "name": "learntocode",
+  "version": "1.0.0",
+  "description": "* prerequesite: `bundle install`",
+  "main": "index.js",
+  "scripts": {
+    "start": "node comment.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getmimo/LearnToCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getmimo/LearnToCode/issues"
+  },
+  "homepage": "https://github.com/getmimo/LearnToCode#readme",
+  "dependencies": {
+    "@actions/core": "^1.1.1",
+    "@actions/github": "^1.1.0"
+  }
+}
